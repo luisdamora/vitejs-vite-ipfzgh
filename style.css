@@ -31,7 +31,7 @@ body {
   background-position: center;
   z-index: -1;
 
-  mask-image: url('ink3.png');
+  mask-image: url('ink2.gif');
   mask-size: cover;
   mask-position: center;
 }
